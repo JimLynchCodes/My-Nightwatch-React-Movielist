@@ -1,18 +1,20 @@
-# MovieList
+# Movie List
 
 ###Getting Started###
 
-Checkout this repo, install dependencies, then start the gulp process with the following:
+First, check out this repository and navigate into the project's root folder:
 
-```
-	> git clone git@github.com:jschuman/movie_list.git
-	> cd movie_list
-	> npm install
-	> npm start
-```
+`git clone https://github.com/JimTheMan/My-Nightwatch-React-Movielist.git`
+`cd My-Nightwatch-React-Movielist`
 
-To run e2e tests:
+Then install the dependency libraries:
 
-```
-	> ./nightwatch
-```
+`npm install`
+
+You can start the project running with hot reload like this:
+
+`npm start`
+
+To run e2e tests using nightwatch / webdriver, use this:
+
+`./nightwatch`
