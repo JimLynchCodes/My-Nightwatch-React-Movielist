@@ -1,4 +1,4 @@
-# Movie List
+# My Nightwatch React Movielist
 
 ###Getting Started###
 
